@@ -1,0 +1,9 @@
+.left {
+  float: left;
+  width: 300px;
+  height: 300px;
+}
+
+.right {
+  overflow: hidden;
+}
